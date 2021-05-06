@@ -1,0 +1,152 @@
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\csc.exe
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\vbc.exe
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\VBCSCompiler.exe
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Market.dll.config
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Market.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Market.pdb
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Antlr3.Runtime.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\EntityFramework.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\EntityFramework.SqlServer.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Newtonsoft.Json.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Owin.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Net.Http.Formatting.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Helpers.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Http.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Http.WebHost.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Mvc.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Optimization.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Razor.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.WebPages.Deployment.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.WebPages.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.WebPages.Razor.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\WebGrease.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Helpers.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Mvc.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Optimization.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Razor.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.WebPages.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.WebPages.Deployment.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.WebPages.Razor.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Antlr3.Runtime.pdb
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Newtonsoft.Json.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Net.Http.Formatting.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Http.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\System.Web.Http.WebHost.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\EntityFramework.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\EntityFramework.SqlServer.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\obj\Debug\Market.dll
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\obj\Debug\Market.pdb
+c:\users\mariano\documents\visual studio 2015\Projects\Market\Market\obj\Debug\Market.csprojResolveAssemblyReference.cache
+D:\Market\Market\bin\roslyn\csc.exe
+D:\Market\Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Market\Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Market\Market\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Market\Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Market\Market\bin\roslyn\System.Collections.Immutable.dll
+D:\Market\Market\bin\roslyn\System.Reflection.Metadata.dll
+D:\Market\Market\bin\roslyn\vbc.exe
+D:\Market\Market\bin\roslyn\VBCSCompiler.exe
+D:\Market\Market\bin\roslyn\VBCSCompiler.exe.config
+D:\Market\Market\bin\Market.dll.config
+D:\Market\Market\bin\Market.dll
+D:\Market\Market\bin\Market.pdb
+D:\Market\Market\bin\Antlr3.Runtime.dll
+D:\Market\Market\bin\EntityFramework.dll
+D:\Market\Market\bin\EntityFramework.SqlServer.dll
+D:\Market\Market\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Market\Market\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Market\Market\bin\Microsoft.Owin.dll
+D:\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Market\Market\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Market\Market\bin\Microsoft.Owin.Security.dll
+D:\Market\Market\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Market\Market\bin\Microsoft.Owin.Security.Google.dll
+D:\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Market\Market\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Market\Market\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Market\Market\bin\Microsoft.Web.Infrastructure.dll
+D:\Market\Market\bin\Newtonsoft.Json.dll
+D:\Market\Market\bin\Owin.dll
+D:\Market\Market\bin\System.Net.Http.Formatting.dll
+D:\Market\Market\bin\System.Web.Helpers.dll
+D:\Market\Market\bin\System.Web.Http.dll
+D:\Market\Market\bin\System.Web.Http.WebHost.dll
+D:\Market\Market\bin\System.Web.Mvc.dll
+D:\Market\Market\bin\System.Web.Optimization.dll
+D:\Market\Market\bin\System.Web.Razor.dll
+D:\Market\Market\bin\System.Web.WebPages.Deployment.dll
+D:\Market\Market\bin\System.Web.WebPages.dll
+D:\Market\Market\bin\System.Web.WebPages.Razor.dll
+D:\Market\Market\bin\WebGrease.dll
+D:\Market\Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Market\Market\bin\System.Web.Helpers.xml
+D:\Market\Market\bin\System.Web.Mvc.xml
+D:\Market\Market\bin\System.Web.Optimization.xml
+D:\Market\Market\bin\System.Web.Razor.xml
+D:\Market\Market\bin\System.Web.WebPages.xml
+D:\Market\Market\bin\System.Web.WebPages.Deployment.xml
+D:\Market\Market\bin\System.Web.WebPages.Razor.xml
+D:\Market\Market\bin\Antlr3.Runtime.pdb
+D:\Market\Market\bin\Newtonsoft.Json.xml
+D:\Market\Market\bin\System.Net.Http.Formatting.xml
+D:\Market\Market\bin\System.Web.Http.xml
+D:\Market\Market\bin\System.Web.Http.WebHost.xml
+D:\Market\Market\bin\EntityFramework.xml
+D:\Market\Market\bin\EntityFramework.SqlServer.xml
+D:\Market\Market\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Market\Market\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Market\Market\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Market\Market\bin\Microsoft.Owin.xml
+D:\Market\Market\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Market\Market\bin\Microsoft.Owin.Security.xml
+D:\Market\Market\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Market\Market\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Market\Market\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Market\Market\bin\Microsoft.Owin.Security.Google.xml
+D:\Market\Market\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Market\Market\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+D:\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+D:\Market\Market\obj\Debug\Market.csproj.CopyComplete
+D:\Market\Market\obj\Debug\Market.dll
+D:\Market\Market\obj\Debug\Market.pdb
